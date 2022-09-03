@@ -4,24 +4,24 @@
   "language": "zh-CN",
   "loading": "random",
   "showGithub": true,
-  "title": "GJ's Nav",
-  "description": "精选实用导航网站",
+  "title": "Cloak导航-Cloak的精选实用导航网站",
+  "description": "Cloak的精选实用导航网站",
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
-  "theme": "Shortcut",
+  "theme": "Side",
   "appTheme": "App",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2022 nav3.cn, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2022 公爵, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
-  "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
+  "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?d3fa6c0ac59e429828da03880713c1a4",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://source.unsplash.com/random",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
+      "src": "https://unsplash.it/1600/900?random",
       "url": "",
       "width": null,
       "height": null
